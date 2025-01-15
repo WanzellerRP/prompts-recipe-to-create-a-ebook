@@ -10,7 +10,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Gamma](https://gamma.app)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -30,11 +30,17 @@ Me dê sugestões para um título para um e-book. O mesmo com um tom humorado e 
 
 reestruture o texto para o e-book com o mesmo tom dado ao título: "O Cofre do Ansible: Tranque suas Senhas antes que Elas Fujam!"
 
-Midjourney：
+Gamma:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | O Cofre do Ansible: Tranque suas Senhas antes que Elas Fujam! |
+| Imagem | Estilo futurista e com um Cofre|
+| Pagina | pagina configurada para A3 estilho e-book|
+
+## ✨ Features
+
+## ✨ Features
 
 ## ✨ Features
 
