@@ -37,6 +37,7 @@ Gamma:
 
 - Conteúdo gerado via ChatGPT
 - Capa gerada pelo Gamma
+- Toda a finalização de edição foi feita no powerpoint
 
 ## 📚 Materiais
 
