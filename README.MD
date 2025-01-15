@@ -38,14 +38,9 @@ Gamma:
 | Imagem | Estilo futurista e com um Cofre|
 | Pagina | pagina configurada para A3 estilho e-book|
 
-## ✨ Features
-
-## ✨ Features
-
-## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Capa gerada pelo Gamma
 
 ## 📚 Materiais
 
